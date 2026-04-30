@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+obj/
+AppPackages/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Certificates (private keys)
+*.pfx
+
+# msbuild logs
+msbuild-diag*.log
